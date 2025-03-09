@@ -1,4 +1,4 @@
-{
+
   "changelog": [
     "@changesets/changelog-github",
     { "repo": "changesets/changesets" }
